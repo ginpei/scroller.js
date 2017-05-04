@@ -1,5 +1,7 @@
 # About scroller.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ginpei/scroller.js.svg)](https://greenkeeper.io/)
+
 The unique ovserver for scroll event.
 
 # Referencese
